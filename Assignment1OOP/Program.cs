@@ -13,7 +13,7 @@
         // 2.1 Define a struct "Person" with properties "Name" and "Age".
         // Create an array of three "Person" objects and populate it with data.
         // Then, write a C# program to display the details of all the persons in the array.
-        public struct Person
+        public struct Person  
         {
             public string Name;
             public int Age;
